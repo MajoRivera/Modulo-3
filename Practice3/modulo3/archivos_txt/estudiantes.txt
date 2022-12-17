@@ -1,0 +1,30 @@
+{ 
+nombre : Sam 
+} 
+apellido : Triulzi 
+} 
+edad : 27 
+} 
+nombre_padre : Iván 
+} 
+calificacion : 9 
+} 
+grupo : B 
+} 
+faltas : 11 
+} 
+{ 
+nombre : Sam 
+} 
+apellido : Triulzi 
+} 
+edad : 27 
+} 
+nombre_padre : Iván 
+} 
+calificacion : 9 
+} 
+grupo : B 
+} 
+faltas : 11 
+} 

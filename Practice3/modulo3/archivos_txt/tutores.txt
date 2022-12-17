@@ -1,0 +1,23 @@
+{ 
+} 
+} 
+} 
+} 
+} 
+{ 
+} 
+} 
+} 
+} 
+} 
+{ 
+nombre : Alan 
+} 
+apellido : Rodríguez 
+} 
+edad : 32 
+} 
+nombre_hijo : Ray 
+} 
+ocupacion : Ingeniero 
+} 
